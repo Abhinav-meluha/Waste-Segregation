@@ -58,7 +58,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 4️. If using Google Colab
-!streamlit run app.py & sleep 5 && cloudflared tunnel --url http://localhost:8501 --no-autoupdate
+!streamlit run app.py & sleep 5 && cloudflared tunnel --[url http://localhost:8501 ](https://self-keeping-targeted-lauren.trycloudflare.com/)--no-autoupdate
 
 Then, open the generated public URL to use the live classifier.
 
