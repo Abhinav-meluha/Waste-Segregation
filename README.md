@@ -99,9 +99,11 @@ It is a significant step toward AI-driven environmental management and smart cit
 
 **Author**
 Abhinav Chanakya
+Candidate Registration Number: 1000308
 IBCP Student – Meluha International School
 Career-Related Study: Artificial Intelligence
 Project Title: Smart Waste Classification System for Smart Cities
+
 
 **Screenshots**
 <img width="485" height="776" alt="image" src="https://github.com/user-attachments/assets/ca3392ac-b975-4c3c-b67e-eb248c0de71d" />
