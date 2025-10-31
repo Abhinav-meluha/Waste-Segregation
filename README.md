@@ -83,7 +83,7 @@ Run Locally
 streamlit run app.py
 
 Run in Google Colab
-!streamlit run app.py & sleep 5 && cloudflared tunnel --url http://localhost:8501 --no-autoupdate
+!streamlit run app.py & sleep 5 && cloudflared tunnel --[url http://localhost:8501](https://self-keeping-targeted-lauren.trycloudflare.com/) --no-autoupdate
 
 Future Enhancements
 
