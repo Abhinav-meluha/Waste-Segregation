@@ -102,3 +102,12 @@ Abhinav Chanakya
 IBCP Student – Meluha International School
 Career-Related Study: Artificial Intelligence
 Project Title: Smart Waste Classification System for Smart Cities
+
+**Screenshots**
+<img width="485" height="776" alt="image" src="https://github.com/user-attachments/assets/ca3392ac-b975-4c3c-b67e-eb248c0de71d" />
+<img width="465" height="891" alt="image" src="https://github.com/user-attachments/assets/d724d49d-b3b9-47e5-893c-d9a351829279" />
+<img width="475" height="812" alt="image" src="https://github.com/user-attachments/assets/371ff592-589e-4cfa-9674-767986b258f4" />
+<img width="446" height="755" alt="image" src="https://github.com/user-attachments/assets/13548209-a17b-4ddc-b9cc-8f4db9956680" />
+<img width="449" height="846" alt="image" src="https://github.com/user-attachments/assets/9be2d0a6-bc83-4883-abee-48f0537f72b5" />
+
+
