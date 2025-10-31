@@ -49,7 +49,7 @@ This system can easily be scaled for smart waste management systems, assisting m
 How to Operate Locally
 
 1️. Clone the repository
-git clone https://github.com/your-username/Smart-Waste-Classification-System.git
+git clone [https://github.com/your-username/Smart-Waste-Classification-System.git](https://github.com/Abhinav-meluha/Waste-Management)
 
 2️. Install dependencies
 pip install -r requirements.txt
