@@ -55,6 +55,7 @@ Model Evaluation and Results After training on Google Colab, the model gave a ve
 | -------- | -------- | ---------- |
 | Accuracy | 95.7%    | 93.8%      |
 | Loss     | 0.11     | 0.18       |
+
 The confusion matrix and class-wise F1 scores showed that the model generalizes well on unseen data in terms of accuracy for all categories. 
 Visualization: Training and Validation Accuracy Curves: The learning convergence was stable. Sample Predictions: Streamlit app shows uploaded images with predicted class labels and confidence scores.
 
