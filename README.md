@@ -1,6 +1,6 @@
 # Waste-Management
 
-**Overview****
+**Overview**
 
 Smart waste classification is the deep learning-based application of computer vision for classifying wastes into classes such as Biodegradable, Recyclable, and Hazardous. A transfer learning approach coupled with the architecture of MobileNetV2 has been used to attain high accuracy along with high computational efficiency. The proposed system is deployed on a Streamlit web interface to perform real-time recognition of wastes, thereby enabling smart city waste management.
 
@@ -19,7 +19,7 @@ Data Collection and Structure:
 The dataset consists of images of 10 different kinds of wastes: battery, biological, cardboard, clothes, glass, metal, paper, plastic, shoes, and trash. 
 Hundreds of labeled images in each class were provided to represent real-world waste material.
 
-**Data Preprocessing Steps:****
+**Data Preprocessing Steps:**
 
 Data cleaning: Removed corrupted and/or unreadable image files.
 Data Splitting: Data were split into 70% Training, 20% Validation, and 10% Testing.
@@ -27,7 +27,7 @@ Image Augmentation: Random transformations include: Rotation (±15°) Zoom (0.2)
 Image Resizing: The images were all resized to 224×224 pixels since that is the expected size for MobileNetV2.
 
 
-**Model Design and Training****
+**Model Design and Training**
 Model Architecture: MobileNetV2;
 Framework: TensorFlow / Keras;
 Transfer Learning: Pre-trained on ImageNet and fine-tuned on a waste dataset.
